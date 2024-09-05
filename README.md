@@ -13,6 +13,10 @@ The app allows to :
 - Find cocktails based on one ingredient's name
 - Find cocktails based on its name
 
+## My motivation for this project 
+
+Got really tired of all my nearly empty bottles I did not know what to do with ... So I created this app to find cool recipe ideas!
+
 ## Deployment
 
 To deploy this project run, first make sure to clone this repository and to have Pyhton / Django installed.
