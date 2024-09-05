@@ -13,6 +13,9 @@ The app allows to :
 - Find cocktails based on one ingredient's name
 - Find cocktails based on its name
 
+## Demo video : 
+[Youtube demo](https://youtu.be/SxOoTQCuMbU)
+
 ## My motivation for this project 
 
 Got really tired of all my nearly empty bottles I did not know what to do with ... So I created this app to find cool recipe ideas!
